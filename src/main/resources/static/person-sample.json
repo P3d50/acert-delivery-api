@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "lastName": "Pedo",
+  "firstName": "Pedo",
+  "cpf": "325.343.333-43",
+  "birthDate": "23-03-1988",
+  "phones": [{
+    "id": 1,
+    "type": "MOBILE_PHONE",
+    "number": "(11)999999999"
+  }]
+}
