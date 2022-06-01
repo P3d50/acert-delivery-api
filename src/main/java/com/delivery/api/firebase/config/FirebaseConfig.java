@@ -19,7 +19,7 @@ public class FirebaseConfig {
     public void configureFirebaseConnection() throws IOException {
 
         ClassLoader classLoader = DeliveryApplication.class.getClassLoader();
-        File file = new File(Objects.requireNonNull(classLoader.getResource("serviceAccountKey.json")).getFile());
+        File file = new File("/app/src/main/resources/serviceAccountKey.jsons");
         FileInputStream serviceAccount = new FileInputStream(file.getAbsolutePath());
         FirebaseOptions options = new FirebaseOptions.Builder()
                 .setCredentials(GoogleCredentials.fromStream(serviceAccount))
