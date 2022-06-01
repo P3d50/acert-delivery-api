@@ -8,7 +8,7 @@
 
 #### Para testar a aplicação:
 
-1. após ainstalação deve ser criado um usuário no endpoint "/api/v1/user" com o payload abaixo
+1. deve ser criado um usuário no endpoint "/api/v1/user" com o payload abaixo
 	 
 	 
 	{
