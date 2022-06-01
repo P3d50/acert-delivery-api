@@ -6,6 +6,8 @@
 
 ### <a href="https://github.com/P3d50/acert-delivery-api/blob/main/delivery.postman_collection.json">Postman json para importar as requisições</a>
 
+Obs. para ambiente local baixar a branch main
+
 #### Para testar a aplicação:
 
 1. deve ser criado um usuário no endpoint "/api/v1/user" com o payload abaixo
