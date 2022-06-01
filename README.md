@@ -1,7 +1,7 @@
 # acert-delivery-api
 
 
-## <a href="https://acertdeliveryapi.herokuapp.com/swagger-ui.html">Swagger em deploy</a>
+## <a href="https://acertdeliveryapi.herokuapp.com/swagger-ui.html">Swagger em deploy no Heroku</a>
 ### url base do deploy: https://acertdeliveryapi.herokuapp.com/ 
 
 ### <a href="https://github.com/P3d50/acert-delivery-api/blob/main/delivery.postman_collection.json">Postman json para importar as requisições</a>
